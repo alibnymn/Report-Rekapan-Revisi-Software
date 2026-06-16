@@ -1,4 +1,7 @@
 # 📊 Sistem Rekap Pembuatan & Revisi Software
+<img width="1600" height="773" alt="image" src="https://github.com/user-attachments/assets/779713f9-89e3-4f55-b3ce-f9d93db3e513" />
+<img width="1294" height="631" alt="image" src="https://github.com/user-attachments/assets/3667f2f9-0c12-4ef4-9fff-ebc6b3391cde" />
+<img width="1582" height="764" alt="image" src="https://github.com/user-attachments/assets/b2769914-482a-495f-bc4d-d01340b839b5" />
 
 Aplikasi berbasis web yang dibangun menggunakan **Streamlit** dan **Pandas** untuk mempermudah manajemen, pelacakan, dan perekapan data revisi maupun pembuatan software baru. Aplikasi ini terintegrasi langsung dengan file database utama berbasis spreadsheet (`.xlsx`) secara *real-time*.
 

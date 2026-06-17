@@ -23,7 +23,7 @@ Aplikasi berbasis web yang dibangun menggunakan **Streamlit** dan **Pandas** unt
 ## 🗂️ Master Data Validasi
 
 Aplikasi ini mengunci dropdown form dan filter menggunakan data master yang terstandarisasi untuk mencegah duplikasi data:
-- **Developer:** `RANDY`, `WILIAM`, `ILMAN`, `JONATHAN`, `CHASTRO`, `AGIS`, `EDI`
+- **Developer:** `Dev1`, `Dev2`, `Dev3`
 - **Aplikasi:** `PRODUKSI`, `QC`, `KARYAWAN`, `LOTUS EMPLOYEE`, `GUDANG`, `RND`, `INVENTORY`, `HRCM`, `PAYROLL`, `MARKETING`, `OPERATOR`, `NOTIFICATION`
 - **Jenis Pengerjaan:** `REVISI MINOR`, `REVISI MAJOR`, `PEMBUATAN SOFTWARE`
 
@@ -44,3 +44,16 @@ Aplikasi ini mengunci dropdown form dan filter menggunakan data master yang ters
 ```bash
 git clone [https://github.com/username-lo/nama-repo-lo.git](https://github.com/username-lo/nama-repo-lo.git)
 cd nama-repo-lo
+```
+### 2. Install Dependencies / Library
+Pastikan library yang dibutuhkan sudah terinstall di environment Python lo:
+
+```bash
+pip install streamlit pandas openpyxl
+```
+
+### 3. Jalankan Aplikasi Streamlit
+```bash
+streamlit run app.py
+```
+Aplikasi akan otomatis terbuka di browser lokal lo (biasanya pada alamat http://localhost:8501).
